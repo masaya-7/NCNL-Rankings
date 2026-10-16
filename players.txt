@@ -1,0 +1,9 @@
+# One Lichess username per line. Lines starting with # are ignored.
+Masaya7
+Lizo
+Golden-Ganglion
+King_Bravo
+Mbo_weakplayer1
+LawGeek
+Flit909
+LangCap
